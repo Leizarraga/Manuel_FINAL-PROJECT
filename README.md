@@ -1,0 +1,2 @@
+# Manuel_FINAL-PROJECT
+This code performs a number of spelling changes in a given order. It has been conceived to update the spelling of Old Souletin texts (Eastern Basque) into present-day standard Basque spelling. I have used a function for case sensitive replacement, and a series of replacements by means of REGEX. Additionally, the project includes a function to count the changes operated by each rule. The resulting text would need to be checked by a philologist, because variation in spelling is full of exceptions to the rules.
